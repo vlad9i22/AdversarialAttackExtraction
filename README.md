@@ -1,2 +1,2 @@
 # AdversarialAttackExtraction
-Репозиторий для хранения Adversarial аттак на экстрацию данных.
+Репозиторий для хранения примеров Adversarial аттак на экстрацию данных.
